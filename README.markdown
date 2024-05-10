@@ -1,1 +1,1 @@
-# An analysis on some benchmark datasets for Temporal Knowledge Graph Completions
+# An analysis on some benchmark datasets for Temporal Knowledge Graph Forcasting
